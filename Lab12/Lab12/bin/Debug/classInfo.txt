@@ -1,0 +1,5 @@
+Информация о классе : 
+Full Name : Lab12.Pastry
+Is class : True
+Is sealed : False
+Is abstract : True
